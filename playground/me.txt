@@ -1,0 +1,5 @@
+{{#user}}
+My name is Ayush Kumar.
+Here are my skills : html, css ,js , react.js, node.js , next.js , c++, python ,express.js. 
+My email id is ayushkumar0352@gmail.com.
+ {{/user}}
